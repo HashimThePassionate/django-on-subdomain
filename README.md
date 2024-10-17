@@ -217,9 +217,7 @@ ALLOWED_HOSTS = ['article.mrfaizi.com', 'www.article.mrfaizi.com']
 2. **Edit the existing application.**
 3. **In the `Execute Python Script` section, enter:**
    ```bash
-   /home/mrfaizi/virtualenv/public_html/article.mrfaizi.com/3.11/bin/pip install -r /home/mrfa
-
-izi/public_html/article.mrfaizi.com/requirements.txt
+   /home/mrfaizi/virtualenv/public_html/article.mrfaizi.com/3.11/bin/pip install -r /home/mrfaizi/public_html/article.mrfaizi.com/requirements.txt
    ```
 
 ### Explanation:
