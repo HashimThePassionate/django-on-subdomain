@@ -1,6 +1,6 @@
 # 🌐 Deploy Django Project on Subdomain
 
-Deploying a Django project on a subdomain can be complex, but with careful attention to detail, it becomes straightforward. This guide will walk you through all the necessary steps, ensuring your project runs smoothly on a subdomain. Let’s begin! 🚀
+Deploying a Django project on a subdomain can be complex, but with careful attention to detail, it becomes straightforward. This guide will walk you through all the necessary steps, ensuring your project runs smoothly on a subdomain in shared hosting. Let’s begin! 🚀
 
 ---
 
